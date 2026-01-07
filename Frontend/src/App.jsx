@@ -14,7 +14,7 @@ import DoctorDetails from "./pages/DoctorDetails.jsx"
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import Messages from "./pages/Messages.jsx"
-import MyFooter from "./components/myFooter.jsx"
+import MyFooter from "./components/MyFooter.jsx"
 
 
 function App() {
