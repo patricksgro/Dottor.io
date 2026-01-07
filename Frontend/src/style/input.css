@@ -1,0 +1,43 @@
+.inputTextColorOnFocus:focus {
+    border-color: #39CCCC !important;
+    box-shadow: 0 0 0 0.25rem rgba(0, 255, 255, 0.25);
+}
+
+.form-group-position {
+    position: relative;
+}
+
+.form-control-distances {
+    border-radius: 20px;
+    padding: 10px 10px 10px 48px;
+}
+
+.icons-not-stethoscope {
+    position: absolute;
+    top: 70%;
+    left: 15px;
+    transform: translateY(-50%);
+    color: #a5a5a5ff;
+}
+
+.button-color {
+    border: none;
+    background: linear-gradient(135deg, #39CCCC, #2BB0B0);
+    box-shadow: 0 8px 20px rgba(43, 176, 176, 0.35);
+    transition: all 0.3s ease;
+}
+
+.button-color-function {
+    background-color: #229797;
+    border: none;
+}
+
+.previus-button {
+    background-color: rgb(173, 173, 111);
+    border: none;
+}
+
+.previus-button:hover {
+    background-color: rgb(85, 85, 84);
+    border: none;
+}

@@ -1,0 +1,17 @@
+/* modifiche stile di acarattere generale, componenti ecc */
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+@media (max-width: 1796px) {
+    .none-at-1796px {
+        display: none !important;
+    }
+}
+
+@media (max-width: 785px) {
+    .none-at-785px {
+        display: none !important;
+    }
+}
