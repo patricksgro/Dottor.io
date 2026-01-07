@@ -1,6 +1,6 @@
-# Doctor.io
+# Dottor.io
 
-**Doctor.io** è una piattaforma moderna che permette agli utenti di prenotare visite mediche scegliendo medici e specialisti registrati sulla piattaforma.
+**Dottor.io** è una piattaforma moderna che permette agli utenti di prenotare visite mediche scegliendo medici e specialisti registrati sulla piattaforma.
 Gli utenti possono filtrare medici per **nome, cognome, città o specializzazione**, gestire il proprio profilo, comunicare con i medici tramite **messaggistica istantanea** e pagare le visite direttamente online tramite **Stripe**.
 
 ---
